@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  fastapi:
+  - apiVersion: v1
+    appVersion: "0.1"
+    created: "2023-02-10T13:49:18.9596519+02:00"
+    description: A Helm chart for Kubernetes to deploy fastapi
+    digest: d1b414df369a55d253844723fe706eb1d43b544580fc92e17fba7ac06914f947
+    home: https://github.com/MrZend/helm-fastapi
+    maintainers:
+    - email: ia.01.kravchuk.vladyslav@gmail.com
+      name: Vladyslav Kravchuk
+    name: fastapi
+    urls:
+    - fastapi-0.1.tgz
+    version: "0.1"
+generated: "2023-02-10T13:49:18.9571796+02:00"
